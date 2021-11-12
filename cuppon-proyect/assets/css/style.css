@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.nav-logo {
+  height: 25px;
+}
+
+.linea {
+  width: 330px;
+  padding-left: 100px;
+}
+.card-title {
+  font: 1em sans-serif;
+  color: #212529;
+}
+
+.card-text{
+  color: #707070;
+}
+
+.bg-nav {
+  background-color: #28a745;
+}
+
+.container {
+  background-color: white;
+  padding: 5px;
+}
+
+.item {
+  padding: 0px;
+  color: #707070;
+  width: 90px;
+  margin: 0px;
+  float: right;
+  text-align: right;
+}
+
+.item-1 {
+  padding: 0px;
+  color: #28a745;
+  width: 90px;
+  margin: 0px;
+  float: right;
+  text-align: right;
+}
+
+.foo-logo{
+    height: 25px;
+}
+.bg-white{
+  color: #707070;
+  opacity: 50px;
+}
